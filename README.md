@@ -6,9 +6,12 @@
 
 ## Preview
 
-![Hero](./screenshots/desktop-hero.png)
-![Bento Grid](./screenshots/desktop-bento.png)
-![CTA](./screenshots/desktop-cta.png)
+![Hero](<img width="1919" height="865" alt="desktop-hero" src="https://github.com/user-attachments/assets/b0ee4c24-98f3-4696-a06f-e4330fb93b02" />
+)
+![Bento Grid](<img width="1915" height="1037" alt="desktop-bento" src="https://github.com/user-attachments/assets/2a2a52c5-2d1f-4487-b20b-7e4f3237f45b" />
+)
+![CTA](<img width="1919" height="349" alt="desktop-cta" src="https://github.com/user-attachments/assets/dd8ba73e-2ab4-4221-8221-7f96029de680" />
+)
 
 ---
 
